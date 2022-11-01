@@ -4,8 +4,6 @@ This software uses Python to print a 'Hello World' statement in the console.
 
 My purpose of creating this was to gain a better understanding of the Python language.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/qjY-_RNq6sI)
 
 # Development Environment
