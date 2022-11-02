@@ -12,6 +12,4 @@ I used Visual Studio Code with the Python 3.11 interpreter.
 I used the Python language. It is an object oriented programming language that has been taking the world by storm for the past 5-7 years.
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 * [Learn Python](https://www.learnpython.org/en/Hello%2C_World%21)
